@@ -18,7 +18,8 @@
             <div class="feed-about">
                 <div class="about-main">
                     <div class="about-img">
-                        <img src="${options.optionAboutsiteAvatar}"
+                        <!-- options.optionAboutsiteAvatar -->
+                        <img src="${}"
                         alt="QR Code">
                     </div>
                     <div class="about-name">${options.optionAboutsiteTitle}</div>
